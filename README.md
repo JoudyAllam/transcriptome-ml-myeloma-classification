@@ -17,7 +17,7 @@ The study aims to explore stage-specific transcriptomic patterns and evaluate th
 ## Pipeline Highlights
 
 - Preprocessing and normalization of microarray data (Affymetrix U133 Plus 2.0)
-- Quality control using `arrayQualityMetrics`, PCA, and manual review
+- Quality control using `arrayQualityMetrics` and manual review
   - Exploratory and diagnostic visualizations including PCA plots, boxplots, and density plots for sample QC
 - Differential gene expression across MGUS, SMM, NDMM, and Healthy controls
   - Biological visualization of DEGs using volcano plots, heatmaps, and Reactome-based pathway enrichment networks
